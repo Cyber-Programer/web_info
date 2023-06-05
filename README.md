@@ -28,7 +28,7 @@ run this  coommands.
     sudo apt install git -y
 ```
 ```bash
-    pip install whois
+    pip uninstall whois
     pip install python-whois
     pip install --upgrade python-whois
 ```
@@ -42,7 +42,7 @@ run this  coommands.
 ## For window
 
 ```bash
-    pip install whois
+    pip uninstall whois
     pip install python-whois
     pip install --upgrade python-whois
     pip install requests
@@ -58,7 +58,7 @@ run this  coommands.
     pkg install git -y
 ```
 ```bash
-    pip install whois
+    pip uninstall whois
     pip install python-whois
     pip install --upgrade python-whois
     pip install requests
