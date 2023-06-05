@@ -21,9 +21,9 @@ try:
     import whois
 except ModuleNotFoundError:
     import os
-    os.system('pip install whois')
     os.system('pip install python-whois')
     os.system('pip install --upgrade python-whois')
+    os.system('pip uninstall whois')
 
 try:
     import requests
