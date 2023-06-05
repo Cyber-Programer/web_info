@@ -37,7 +37,7 @@ run this  coommands.
    pip install termcolor 
 ```
 ```bash
-   git clone ...... 
+   git clone https://github.com/2rootv3/web_info
 ```
 ## For window
 
@@ -65,7 +65,7 @@ run this  coommands.
     pip install termcolor
 ```
 ```bash
-   git clone ...... 
+   git clone https://github.com/2rootv3/web_info
 ```
 ## Screenshots
 
