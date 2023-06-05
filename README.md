@@ -28,9 +28,9 @@ run this  coommands.
     sudo apt install git -y
 ```
 ```bash
-    pip uninstall whois
     pip install python-whois
     pip install --upgrade python-whois
+    pip uninstall whois
 ```
 ```bash
    pip install requests
@@ -42,11 +42,11 @@ run this  coommands.
 ## For window
 
 ```bash
-    pip uninstall whois
     pip install python-whois
     pip install --upgrade python-whois
     pip install requests
     pip install termcolor 
+    pip uninstall whois
 ```
 
 ## For Termux
@@ -58,11 +58,11 @@ run this  coommands.
     pkg install git -y
 ```
 ```bash
-    pip uninstall whois
     pip install python-whois
     pip install --upgrade python-whois
     pip install requests
     pip install termcolor
+    pip uninstall whois
 ```
 ```bash
    git clone https://github.com/2rootv3/web_info
