@@ -70,6 +70,3 @@ run this  coommands.
 ## Screenshots
 
 ![App Screenshot](https://i.postimg.cc/Dw280sdN/web.png)
-
-
-![App Screenshot]([https://i.postimg.cc/RVm0pf80/Screenshot-58.png](https://i.postimg.cc/RVm0pf80/Screenshot-58.png)https://i.postimg.cc/RVm0pf80/Screenshot-58.png)
